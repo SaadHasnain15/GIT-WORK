@@ -12,9 +12,5 @@ if($delete){
 
 }
 
-
-
-
-
-
+echo ("Hello World");
 ?>
